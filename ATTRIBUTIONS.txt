@@ -1,0 +1,44 @@
+Third-Party Licenses and Attributions
+=====================================
+
+This software uses third-party libraries and tools. Their licenses are included below.
+
+---
+
+PySide6 (Qt for Python) - LGPL 3.0
+https://doc.qt.io/qtforpython/
+Copyright (C) The Qt Company Ltd.
+
+keyring - MIT License
+https://pypi.org/project/keyring/
+
+pyrebase4 - MIT License
+https://github.com/nhorvath/Pyrebase4
+
+imageio - BSD 2-Clause License
+https://imageio.github.io/
+
+pillow-heif - MIT License
+https://github.com/carsales/pyheif
+
+pydub - MIT License
+https://github.com/jiaaro/pydub
+
+moviepy - MIT License
+https://zulko.github.io/moviepy/
+
+proglog - MIT License
+https://github.com/Edinburgh-Genome-Foundry/proglog
+
+rarfile - ISC License
+https://github.com/markokr/rarfile
+
+py7zr - LGPL 2.1
+https://github.com/miurahr/py7zr
+
+FFmpeg - LGPL 2.1
+https://ffmpeg.org/
+
+---
+
+Copies of all licenses are provided in the "licenses" folder.
