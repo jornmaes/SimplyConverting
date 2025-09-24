@@ -27,8 +27,7 @@ Easily convert images, audio, video, and even extract archives — all in one cl
 ## Download
 Get the latest version from the **[Releases page](https://github.com/YOURUSER/SimplyConverting/releases)**.  
 
-- Windows installer (`.exe`)  
-- Portable `.zip` version (if available)  
+- Windows installer (`.exe`) 
 
 > On first launch, Windows may warn about an “Unknown Publisher.”  
 > This is normal since the app is not code-signed. Click **More Info → Run Anyway**.
