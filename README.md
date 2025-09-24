@@ -1,7 +1,7 @@
 # SimplyConverting
-A fast, simple, and modern file conversion tool built with PySide6.  
+A fast, simple, offline and modern file conversion tool built with PySide6.  
 
-Easily convert images, audio, video, and even archives — all in one clean interface.
+Easily convert images, audio, video, and even extract archives — all in one clean interface.
 
 ---
 
