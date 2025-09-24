@@ -48,7 +48,7 @@ Get the latest version from the **[Releases page](https://github.com/jornmaes/Si
 ---
 
 ## License & Attribution
-- My code is licensed under a **proprietary license** (see [LICENSE](LICENSE))  
+- My code is licensed under a **proprietary license** (see [LICENSE.txt](LICENSE.txt))
 - Third-party licenses are provided in [`ATTRIBUTIONS.txt`](ATTRIBUTIONS.txt) and the [`licenses/`](licenses/) folder
 
 ---
