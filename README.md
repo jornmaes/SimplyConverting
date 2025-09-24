@@ -53,5 +53,5 @@ Get the latest version from the **[Releases page](https://github.com/jornmaes/Si
 
 ---
 
-## 💬 Feedback
+## Feedback
 Issues and feature requests are welcome in the [Issues](https://github.com/jornmaes/SimplyConverting/issues) tab.  
