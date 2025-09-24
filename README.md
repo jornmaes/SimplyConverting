@@ -25,7 +25,7 @@ Easily convert images, audio, video, and even extract archives — all in one cl
 ---
 
 ## Download
-Get the latest version from the **[Releases page](https://github.com/YOURUSER/SimplyConverting/releases)**.  
+Get the latest version from the **[Releases page](https://github.com/jornmaes/SimplyConverting/releases)**.  
 
 - Windows installer (`.exe`) 
 
@@ -54,4 +54,4 @@ Get the latest version from the **[Releases page](https://github.com/YOURUSER/Si
 ---
 
 ## 💬 Feedback
-Issues and feature requests are welcome in the [Issues](https://github.com/YOURUSER/SimplyConverting/issues) tab.  
+Issues and feature requests are welcome in the [Issues](https://github.com/jornmaes/SimplyConverting/issues) tab.  
