@@ -10,7 +10,7 @@ Easily convert images, audio, video, and even extract archives: all in one clean
 - **Image formats**: JPEG, PNG, WebP, AVIF, ICO, HEIC
 - **Audio formats**: MP3, WAV, FLAC, OGG
 - **Video formats**: MP4, AVI, MKV, MOV, WEBM, FLV, 3GP
-- **Archives**: ZIP, RAR, 7z — extracts compressed contents
+- **Archives**: ZIP, RAR, 7z (extracts compressed contents)
 - **Custom settings** per format:
   - Image quality, icon size
   - Audio bitrate & sample rate
