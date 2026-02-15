@@ -1,12 +1,12 @@
 # SimplyConverting
 A fast, simple, offline and modern file conversion tool built with PySide6.  
 
-Easily convert images, audio, video, and even extract archives — all in one clean interface.
+Easily convert images, audio, video, and even extract archives: all in one clean interface.
 
 ---
 
 ## Features
-- **Batch conversion** — drag and drop multiple files at once
+- **Batch conversion**: drag and drop multiple files at once
 - **Image formats**: JPEG, PNG, WebP, AVIF, ICO, HEIC
 - **Audio formats**: MP3, WAV, FLAC, OGG
 - **Video formats**: MP4, AVI, MKV, MOV, WEBM, FLV, 3GP
